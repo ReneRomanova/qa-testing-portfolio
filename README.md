@@ -10,9 +10,9 @@
 | № | Тема лабораторной работы | Основной инструмент / Технология |
 | :---: | :--- | :--- |
 | **1** | [Модульное тестирование (Unit Testing)](01-unit-testing-java) | JUnit / Mockito / TestNG |
-| **2** | [Интеграционное тестирование (Integration Testing)](#лабораторная-работа-2) | Testcontainers / Spring Boot Test / БД |
-| **3** | [Автоматизированное UI-тестирование](#лабораторная-работа-3) | Selenium / Selenide |
-| **4** | [Нагрузочное и стресс-тестирование](#лабораторная-работа-4) | Apache JMeter |
+| **2** | [Интеграционное тестирование (Integration Testing)](02-integration-testing) | Testcontainers / Spring Boot Test / БД |
+| **3** | [Автоматизированное UI-тестирование](03-ui-automation) | Selenium / Selenide |
+| **4** | [Нагрузочное и стресс-тестирование](04-load-stress-testing) | Apache JMeter |
 
 ---
 
